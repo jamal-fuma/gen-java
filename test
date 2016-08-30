@@ -1,0 +1,1 @@
+cat res | ./gen-java -s > TestBean.java
